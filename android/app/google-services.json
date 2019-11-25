@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "470216302538",
+    "firebase_url": "https://midicenapp.firebaseio.com",
+    "project_id": "midicenapp",
+    "storage_bucket": "midicenapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470216302538:android:a52bd137ce5301cdc33933",
+        "android_client_info": {
+          "package_name": "com.devahmed.medicine.protoype_medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470216302538-h379etrj2rndjnhv770gu8b9h7jlpttr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPNz31NxvMm6-Sswp-v73gymcW0pEmig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470216302538-h379etrj2rndjnhv770gu8b9h7jlpttr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470216302538:android:6ea81acf550574a0c33933",
+        "android_client_info": {
+          "package_name": "com.example.medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470216302538-h379etrj2rndjnhv770gu8b9h7jlpttr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPNz31NxvMm6-Sswp-v73gymcW0pEmig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470216302538-h379etrj2rndjnhv770gu8b9h7jlpttr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
